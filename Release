@@ -1,8 +1,8 @@
-Origin: Cyan 저장소 - 한국 사용자 전용
-Label: Cyan 저장소 - 한국 사용자 전용
+Origin: Cyan 한국저장소
+Label: Cyan 한국저장소
 Suite: stable
 Version: 1.0
-Codename: Cyan 저장소 - 한국 사용자 전용
+Codename: Cyan 한국저장소
 Architectures: iphoneos-arm
 Components: main
 Description: 한국 사용자를 위한 Cydia 저장소입니다.
