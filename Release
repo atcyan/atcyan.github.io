@@ -1,8 +1,8 @@
-Origin: freezingrepo
-Label: arcticsn0w
+Origin: Cyan 저장소 - 한국 사용자 전용
+Label: Cyan 저장소 - 한국 사용자 전용
 Suite: stable
 Version: 1.0
-Codename: freezingrepo
+Codename: Cyan 저장소 - 한국 사용자 전용
 Architectures: iphoneos-arm
 Components: main
-Description: arcticsn0w's repo with betas and stuff that got taken down (like nds4ios and stuff)
+Description: 한국 사용자를 위한 Cydia 저장소입니다.
