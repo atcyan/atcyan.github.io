@@ -1,16 +1,15 @@
 Package: org.thebigboss.wifisms
-Version: 1.0.7
+Version: 1.0
 Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 1354
-Depends: firmware (>= 4.0), shell-cmds, sudo, coreutils-bin, coreutils
+Depends: firmware (>= 4.0), shell-cmds, coreutils-bin, coreutils
 Conflicts: com.treason.treasonsmstwo
 Replaces: com.treason.treasonsmstwo
-Filename: debs/WifiSMS-NOSBS-1.0.9.deb
-Size: 716010
-MD5sum: 72ca917df150b432a882d52b22a0a389
-SHA1: db365d43faf697d90385b53fc0ca51bca9cd1a2d
-SHA256: bdc6d7a575f33eca6214d49d879f9af884ad9de9389780c0badfb84619d20e2f
+Filename: debs/io.atcyan.wifisms.deb
+Size: 721270
+MD5sum: fe1eca60653283552fed5103040237bf
+SHA1: b7a93fb0484708e098c704d5c46830c79ede93f9
+SHA256: 08554011a3f6fe3b7d2f7ebdab7a71e60abc59cebe32e6cd872c70df6c32ddee
 Section: Messaging
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wifismsData
 Description: send & receive SMS thru PC's webbrowser
